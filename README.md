@@ -22,3 +22,14 @@ npm install
 ionic serve
 # visit http://localhost:8100
 ```
+
+# Screenshots
+![image](./images/image1.png)
+![image](./images/image2.png)
+![image](./images/image3.png)
+![image](./images/image4.png)
+![image](./images/image5.png)
+![image](./images/image6.png)
+![image](./images/image7.png)
+![image](./images/image8.png)
+![image](./images/image9.png)
